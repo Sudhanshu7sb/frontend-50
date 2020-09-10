@@ -1,0 +1,14 @@
+{
+  "name": "Frontend 50",
+  "description" : "FrontEnd50 is your one-stop learning guide that covers everything you need to kickstart your web development journey.",
+  "version": "1.1.112",
+  "manifest_version": 2,
+  "chrome_url_overrides":{
+    "newtab" : "index.html"
+  },
+  "icons":{
+    "16":"img/icon16.png",
+    "48":"img/icon48.png",
+    "128":"img/icon128.png"
+  }
+}
